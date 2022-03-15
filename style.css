@@ -1,23 +1,33 @@
 
 
-h1{
+#bienvenida{
     
-    color: blue;
+    
+    text-align: center;
+    color: rgb(17, 14, 192);
     font-style:initial
+    
 }
 #texto{
-
-    color: rgb(75, 16, 211);
+    
+    text-align: center;
+    color: rgb(15, 15, 15);
     
 }
-#marte{
+#ambito{
+    color: rgb(3, 3, 3);
 
-    text-align: right;
+    
 }
-h3, h2{
+#logo{
     
     text-align: center;
     font-style: oblique;
 }
 
+#imagen{
 
+    width: 800px;
+    margin:auto ;
+    display: block;
+}
