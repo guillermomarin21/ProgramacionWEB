@@ -1,0 +1,23 @@
+
+
+h1{
+    
+    color: blue;
+    font-style:initial
+}
+#texto{
+
+    color: rgb(75, 16, 211);
+    
+}
+#marte{
+
+    text-align: right;
+}
+h3, h2{
+    
+    text-align: center;
+    font-style: oblique;
+}
+
+
