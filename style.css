@@ -11,14 +11,18 @@
 #texto{
     
     text-align: center;
+    font-style:inherit;
     color: rgb(15, 15, 15);
     
 }
 #ambito{
-    color: rgb(3, 3, 3);
+
+    text-align: left;
+}
+
 
     
-}
+
 #logo{
     
     text-align: center;
