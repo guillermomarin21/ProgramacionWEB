@@ -1,6 +1,21 @@
 
 
- .contenedor{
+ #contenedor{
 
-    font-family: cursive;
+    font-style: italic;
+    
+
 }
+
+#box{
+    
+    background-color: aliceblue;
+    margin: 150px;
+    margin-top: 40px;
+    padding-top: 50px;  
+     
+    border-style: ridge;
+       
+}
+
+
