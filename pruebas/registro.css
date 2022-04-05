@@ -9,13 +9,23 @@
 
 #box{
     
-    background-color: aliceblue;
-    margin: 150px;
+    
+    margin-bottom: 40px;
+    margin-left: 120px;
     margin-top: 40px;
     padding-top: 50px;  
      
-    border-style: ridge;
-       
+    
+    
+    
 }
+
+#h4{
+
+    text-align: center;
+}
+
+
+
 
 
